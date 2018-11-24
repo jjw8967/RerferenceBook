@@ -9,5 +9,5 @@
 ## konlpy package Manual
 > http://konlpy.org/en/v0.4.4/api/konlpy.tag/
 
-## NLTK (한글 분선기)
+## NLTK (한글 분석기)
 > https://www.lucypark.kr/courses/2015-dm/text-mining.html
