@@ -14,3 +14,6 @@
 
 ## cross - entropy
 > https://kakalabblog.wordpress.com/2017/04/04/cross-entropy-%EC%A0%95%EB%A6%AC/
+
+## Classification and Loss Evaluation - Softmax and Cross Entropy Loss
+> https://deepnotes.io/softmax-crossentropy
