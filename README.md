@@ -11,3 +11,6 @@
 
 ## NLTK (한글 분석기)
 > https://www.lucypark.kr/courses/2015-dm/text-mining.html
+
+## cross - entropy
+> https://kakalabblog.wordpress.com/2017/04/04/cross-entropy-%EC%A0%95%EB%A6%AC/
