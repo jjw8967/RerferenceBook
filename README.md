@@ -20,3 +20,6 @@
 
 ## Google WebRTC
 > https://github.com/googlecodelabs/webrtc-web
+
+## Spring initialize
+> https://madplay.github.io/post/create-springboot-project-in-intellij
