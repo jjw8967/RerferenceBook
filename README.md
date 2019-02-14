@@ -26,3 +26,4 @@
 
 ## ElasticSearch
 > https://gwonsungjun.github.io/elk%20stack/2018/08/02/elasticsearch_basic/
+> https://wedul.site/485
